@@ -2,4 +2,4 @@
 
 
 
-![ProjectScreen](https://github.com/sumedhgh29/SD-College/blob/main/Images/A3%20HANDOUTS%20-%20Group%2011.pdf)
+![ProjectScreen](https://raw.githubusercontent.com/sumedhgh29/SD-College/refs/heads/main/Images/Screenshot%202025-07-21%20191635.png))
